@@ -1,1 +1,1 @@
-This file contains the new feature!s
+This is the file containing the new feature.
